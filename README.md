@@ -10,10 +10,10 @@ Supervised learning involves learning to differentiate between existing categori
 Scikit-Learn is used exclusively for data analysis and machine learning. Without another visual package, its results cannot be displayed visually.
 
 ## Day 3
-1.What are “Tensors” and what are they used for in Machine Learning?
+1. What are “Tensors” and what are they used for in Machine Learning?
 In terms of mathematics, tensors are multi-dimensional algebraic objects. They are used similarly in machine learning.
 
-2.What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+2. What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
 They all relied on an old version of tensorflow, so a lot of the code examples didn't run on my own system.
 
 
