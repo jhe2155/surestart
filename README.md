@@ -60,4 +60,8 @@ Uploaded HousePricesUpdated.ipynb and HousePricesWithMeanSquaredError.ipynb to t
 Uploaded Autoencoder.ipynb and Upsampling.ipynb
 
 ## Day 22
+Uploaded NLP.ipynb. 
 I found this week's reading to be really interesting as there can be a lot of cool applications with natural language processing. Ethically, there can be some concerns with models learning offensive or incorrect content from human writing that it is trained on.
+
+## Day 25-26
+Brainstormed and talked about our Makeathon project!
