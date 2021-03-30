@@ -28,11 +28,6 @@ Project was to do the Kaggle Project on detecting sarcasm.
 
 I felt quite while attempting this project - our previous assignments regarding neural networks had been purely theoretical, and jumping straight into practical applications felt like a weird stretch. I wasn't really familiar with a lot of the necessary packages at all, much less how to implement them. Thus, I mostly ended up copying others' code while trying to figure out how it worked.
 
-## Day 16 
-One great thing about ReLu is that it is capable of outputting a zero value, unlike a lot of other activation functions. According to the reading, this is called "sparse representation" and is a desirable trait in a model as it can improve efficiency and learning.
-
-Overall, I found today's reading to be quite approachable and easy to understand.
-
 
 ## Day 6 
 Today's task was to follow a tutorial for a convolutional neural network. I felt a little better going into this time with a bit more experience, and the readings also helped a bit more with helping me understand confusion matrices and such.
@@ -43,3 +38,12 @@ We were first asked to make our own hiring decisions, with increasing time press
 
 2. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
 As outlined in the presentation, some models tend to allow certain traits to be labeled as a default and others as modifiers upon the default. This might seem quite harmless when applied to bananas, where the default is yellow and green could be a modifier. However, when presented with the label of doctor, it can be quite detrimental if male is labeled as the default and female is a modifier.
+
+
+## Day 16 
+One great thing about ReLu is that it is capable of outputting a zero value, unlike a lot of other activation functions. According to the reading, this is called "sparse representation" and is a desirable trait in a model as it can improve efficiency and learning.
+
+Overall, I found today's reading to be quite approachable and easy to understand.
+
+## Day 22
+I found this week's reading to be really interesting as there can be a lot of cool applications with natural language processing. Ethically, there can be some concerns with models learning offensive or incorrect content from human writing that it is trained on.
