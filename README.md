@@ -50,5 +50,11 @@ One great thing about ReLu is that it is capable of outputting a zero value, unl
 
 Overall, I found today's reading to be quite approachable and easy to understand.
 
+## Day 17
+Upload HousePrices.ipynb to predict house prices using a simple CNN model. 
+
+## Day 18
+Uploaded HousePricesUpdated.ipynb and HousePricesWithMeanSquaredError.ipynb to try various loss functions on the CNN model from yesterday. 
+
 ## Day 22
 I found this week's reading to be really interesting as there can be a lot of cool applications with natural language processing. Ethically, there can be some concerns with models learning offensive or incorrect content from human writing that it is trained on.
