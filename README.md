@@ -42,6 +42,9 @@ As outlined in the presentation, some models tend to allow certain traits to be 
 ## Day 11 
 Uploaded MNIST_Digits.ipynb code for analyzing written digits
 
+## Day 12 
+Uploaded ImageClassification.ipynb for classifying cats and dogs.
+
 ## Day 16 
 One great thing about ReLu is that it is capable of outputting a zero value, unlike a lot of other activation functions. According to the reading, this is called "sparse representation" and is a desirable trait in a model as it can improve efficiency and learning.
 
