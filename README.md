@@ -29,7 +29,7 @@ Project was to do the Kaggle Project on detecting sarcasm.
 I felt quite while attempting this project - our previous assignments regarding neural networks had been purely theoretical, and jumping straight into practical applications felt like a weird stretch. I wasn't really familiar with a lot of the necessary packages at all, much less how to implement them. Thus, I mostly ended up copying others' code while trying to figure out how it worked.
 
 
-## Day 6 
+## Day 8 
 Today's task was to follow a tutorial for a convolutional neural network. I felt a little better going into this time with a bit more experience, and the readings also helped a bit more with helping me understand confusion matrices and such.
 
 ## Day 9 
