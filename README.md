@@ -39,6 +39,8 @@ We were first asked to make our own hiring decisions, with increasing time press
 2. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
 As outlined in the presentation, some models tend to allow certain traits to be labeled as a default and others as modifiers upon the default. This might seem quite harmless when applied to bananas, where the default is yellow and green could be a modifier. However, when presented with the label of doctor, it can be quite detrimental if male is labeled as the default and female is a modifier.
 
+## Day 11 
+Uploaded MNIST_Digits.ipynb code for analyzing written digits
 
 ## Day 16 
 One great thing about ReLu is that it is capable of outputting a zero value, unlike a lot of other activation functions. According to the reading, this is called "sparse representation" and is a desirable trait in a model as it can improve efficiency and learning.
